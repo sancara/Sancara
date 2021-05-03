@@ -1,7 +1,7 @@
 <h1 align="center">👋 Soy Santi</h1>
-<h3 align="center">Full-Stack and sneaking into Data Science</h3>
+<h3 align="center">Data Science trainee and diving into Full-Stack</h3>
 
-- 🌱 I’m currently learning **Python, node.js**
+- 🌱 I’m currently learning **JavaScript, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
