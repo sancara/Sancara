@@ -1,4 +1,4 @@
-<h1 align="center">👋, Soy Santi</h1>
+<h1 align="center">👋 Soy Santi</h1>
 <h3 align="center">Full-Stack and sneaking into Data Science</h3>
 
 - 🌱 I’m currently learning **Python, node.js**
