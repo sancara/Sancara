@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning **JavaScript, Node.js**
 - 👯 Owner and 💬 creating content in <a href="https://martesdecuentos.wordpress.com/">Martes de cuentos</a>
 
+<br />
+<br />
+<br />
+<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sancaraballo">
@@ -19,6 +24,9 @@
 <img align="left" alt="Gonzalo Pozzo Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
 </a>
 
+<br />
+<br />
+<br />
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
