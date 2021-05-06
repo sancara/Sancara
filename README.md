@@ -2,7 +2,7 @@
 <h3 align="center">Data Science trainee and diving into Full-Stack</h3>
 
 - 🌱 I’m currently learning **JavaScript, Node.js**
-- 👯 Owner and 💬 creating content in <a href="https://martesdecuentos.wordpress.com/">Martes de cuentos</a>
+- 👯 Owner and 💬 creating content in <a target="_blank" href="https://martesdecuentos.wordpress.com/">Martes de cuentos</a>
 
 <br />
 <br />
