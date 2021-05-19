@@ -18,9 +18,6 @@
 <a href="https://www.instagram.com/sancaraballo/">
 <img align="left" alt="Santiago Caraballo Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://twitch.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo Twitch" width="22px" src="https://icongr.am/fontawesome/twitch.svg?size=128&color=70c8ff" />
-</a>
 
 <br />
 <br />
