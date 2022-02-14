@@ -1,7 +1,7 @@
 <h1 align="center">👋 Soy Santi</h1>
 <h3 align="center">Data Science diving into iOS</h3>
 
-- 🌱 I’m currently learning **Swift, JavaScript and Node.js**
+- 🌱 I’m currently learning **Swift, Flask, JavaScript and Node.js**
 - 👯 Owner and 💬 creating content in <a href="https://martesdecuentos.wordpress.com/" target="_blank">Martes de cuentos</a>
 
 <br />
