@@ -1,8 +1,9 @@
 <h1 align="center">👋 Soy Santi</h1>
-<h3 align="center">Data Science diving into iOS</h3>
+<h3 align="center">Data Engineer diving into iOS</h3>
 
-- 🌱 I’m currently learning **Swift, Flask, JavaScript and Node.js**
+- 🌱 I’m currently learning **Swift, Django**
 - 👯 Owner and 💬 creating content in <a href="https://martesdecuentos.wordpress.com/" target="_blank">Martes de cuentos</a>
+- ☁️ Actually preparing The Google Cloud Data Engineer Certification
 
 <br />
 <br />
