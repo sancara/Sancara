@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer diving into iOS</h3>
 
 - 🌱 I’m currently learning **Swift, Django**
-- 👯 Owner and 💬 creating content in <a href="https://martesdecuentos.wordpress.com/" target="_blank">Martes de cuentos</a>
+- 👯 Owner and 💬 creating content at <a href="https://martesdecuentos.wordpress.com/" target="_blank">Martes de cuentos</a>
 - ☁️ Actually preparing The Google Cloud Data Engineer Certification
 
 <br />
