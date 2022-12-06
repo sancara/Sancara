@@ -1,7 +1,7 @@
 <h1 align="center">👋 Soy Santi</h1>
-<h3 align="center">Data Engineer diving into iOS</h3>
+<h3 align="center">Data Engineer & [GCP Certified](https://googlecloudcertified.credential.net/?name=Santiago%20Caraballo)</h3>
 
-- 🌱 I’m currently learning **Swift, Django**
+- 🌱 I’m currently learning, Django** DBT** meltano** BEAM** 
 - 👯 Owner and 💬 creating content at <a target="_blank" href="https://martesdecuentos.wordpress.com/">Martes de cuentos</a>
 - ☁️ Actually preparing The Google Cloud Data Engineer Certification
 
@@ -33,6 +33,7 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgreSQL" width="40" height="40"/></a>
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" alt="Swift" width="40" height="40"/></a>
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/> </a>
 </p>
 
 <br />
