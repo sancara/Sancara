@@ -1,7 +1,7 @@
 <h1 align="center">👋 Soy Santi</h1>
 <h3 align="center">Data Engineer & <a href="https://googlecloudcertified.credential.net/?name=Santiago%20Caraballo">GCP Certified</a></h3>
 
-- 🌱 I’m currently learning, Django** DBT** meltano** BEAM** 
+- 🌱 I’m currently learning, Django DBT meltano BEAM 
 - 👯 Owner and 💬 creating content at <a target="_blank" href="https://martesdecuentos.wordpress.com/">Martes de cuentos</a>
 - ☁️ Actually preparing The Google Cloud Data Engineer Certification
 
