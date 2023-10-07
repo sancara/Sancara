@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning, Django DBT meltano BEAM 
 - 👯 Owner and 💬 creating content at <a target="_blank" href="https://martesdecuentos.wordpress.com/">Martes de cuentos</a>
-- ☁️ Actually preparing The Google Cloud Data Engineer Certification
+- ☁️ Actually preparing The Google Cloud Professional Data Engineer Certification
 
 <br />
 <br />
