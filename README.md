@@ -32,7 +32,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgreSQL" width="40" height="40"/></a>
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" alt="Swift" width="40" height="40"/></a>
+<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="Swift" width="40" height="40"/></a>
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
